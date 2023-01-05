@@ -55,6 +55,9 @@
   letter-spacing: 3px;
   margin-block-end: 20px;
 }
+.wagon {
+  color: red;
+}
 
 .hero-text { margin-block: 25px; }
 
