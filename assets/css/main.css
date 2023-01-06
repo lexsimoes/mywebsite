@@ -57,6 +57,14 @@
 }
 .wagon {
   color: red;
+  text-decoration-line: none;
+  white-space: nowrap;
+
+}
+
+.a {
+  white-space: nowrap;
+  text-decoration-line: none;
 }
 
 .hero-text { margin-block: 25px; }
