@@ -132,6 +132,12 @@
   gap: 15px 25px;
 }
 
+.new {
+  display: grid;
+  flex-wrap: nowrap;
+  align-items: center;
+  white-space: nowrap;
+}
 
 
 
